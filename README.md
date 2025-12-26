@@ -21,9 +21,7 @@ Freelance Technical Trainer with 2+ years of experience empowering students and 
 - Open-source training resources for placement preparation
 
 ## 📫 How to Reach Me
-- **Email:** [your-email@example.com]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Location:** Chennai, India
+- **Email:** mamidivivek3410@gmail.com
 
 ## 💼 Tech Stack
 **Languages:** Java | Python | C/C++  
